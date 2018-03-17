@@ -1,0 +1,36 @@
+
+> node-sass@4.7.2 install /home/andrew/eth-projects/node_modules/node-sass
+> node scripts/install.js
+
+Cached binary found at /home/andrew/.npm/node-sass/4.7.2/linux-x64-48_binding.node
+
+> node-sass@4.7.2 postinstall /home/andrew/eth-projects/node_modules/node-sass
+> node scripts/build.js
+
+Binary found at /home/andrew/eth-projects/node_modules/node-sass/vendor/linux-x64-48/binding.node
+Testing binary
+Binary is fine
+truffle-init-webpack@0.0.2 /home/andrew/eth-projects
+├─┬ bootstrap-loader@2.2.0
+│ ├─┬ exports-loader@0.6.4
+│ │ └── loader-utils@1.1.0 
+│ └── loader-utils@1.1.0 
+├─┬ css-loader@0.26.4
+│ └── loader-utils@1.1.0 
+├─┬ extract-text-webpack-plugin@3.0.2 
+│ └── loader-utils@1.1.0 
+├─┬ file-loader@1.1.6
+│ └── loader-utils@1.1.0 
+├── node-sass@4.7.2  extraneous
+├─┬ resolve-url-loader@2.2.1
+│ ├─┬ adjust-sourcemap-loader@1.1.0
+│ │ └── loader-utils@1.1.0 
+│ └── loader-utils@1.1.0 
+├─┬ sass-loader@6.0.6
+│ └── loader-utils@1.1.0 
+├─┬ style-loader@0.13.2
+│ └── loader-utils@1.1.0 
+├─┬ url-loader@0.6.2
+│ └── loader-utils@1.1.0 
+└── UNMET PEER DEPENDENCY webpack@2.7.0
+
